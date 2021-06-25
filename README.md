@@ -10,4 +10,5 @@ Let's say we have a friend named Tom. And Tom wants to sell his car. But the pro
 ## Dataset
 * data source: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data
 * date type : .csv
+
 The dataset consists of 202 rows and 26 columns
